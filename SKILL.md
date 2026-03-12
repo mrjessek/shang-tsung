@@ -1,3 +1,8 @@
+---
+name: shang-tsung
+description: Persistent memory and identity continuity for AI agents. Combines Second Brain (PROOF_OF_LIFE, daily logs, long-term MEMORY.md) with SOULS session lineage. Each session absorbs the previous soul and confirms continuity. Multi-agent support via AGENT_NAME namespacing. No dependencies, no network access — pure bash and markdown. Use when building agents that need to survive restarts, remember decisions, carry forward identity, or run alongside other agents in a shared workspace.
+---
+
 # Shang Tsung — SKILL.md
 
 *In memory of Cary Hiroyuki Tagawa (1950-2025)*
